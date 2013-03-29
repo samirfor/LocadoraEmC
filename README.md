@@ -1,4 +1,4 @@
-LocadoraEmC (Video store for rent DVDs in C)
+LocadoraEmC (Rental store for movies in DVD)
 ===========
 
 Um implementação em C de uma locadora de filmes em DVD.
