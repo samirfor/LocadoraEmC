@@ -1,7 +1,7 @@
 LocadoraEmC (Rental store for movies in DVD)
 ===========
 
-Um implementação em C de uma locadora de filmes em DVD.
+Uma implementação em C de uma locadora de filmes em DVD.
 
 É um sistema CLI (linha de comando) para administração de uma locadora de filmes.
 Este sistema salva seus dados em arquivos binários, ou seja, livre de banco de dados.
