@@ -9,7 +9,7 @@ A principal finalizadade deste projeto foi compreender e pôr em prática concei
 Sendo assim, este projeto é uma referência importante para minha vida acadêmica.
 
 
-
+-----------------------
 
 A C implementation of a rental DVD movies.
 
